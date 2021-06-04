@@ -1,4 +1,6 @@
-# FaceRecognitionBrainAPI is the backend server for smart-brain. 
+# FaceRecognitionBrainAPI 
+
+ FaceRecognitionBrainAPI is the backend server for smart-brain. 
 
 See: (https://github.com/Kevinlc33/smart-brain). 
 
